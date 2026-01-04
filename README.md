@@ -132,19 +132,7 @@ pip install numpy matplotlib
 ### Run the Notebook
 
 ```bash
-jupyter notebook 7980-dl-assignment-3.ipynb
-```
-
----
-
-## 📁 Project Structure
-
-```
-Assignment 3/
-├── 7980-dl-assignment-3.ipynb    # Main implementation notebook
-├── 7980_DL_A3.pdf                # Assignment description
-├── Assignment 3.pdf              # Additional materials
-└── README.md                     # This file
+jupyter notebook -dl-assignment-3.ipynb
 ```
 
 ---
@@ -159,20 +147,3 @@ Assignment 3/
 6. **Hidden layers** create useful intermediate representations
 
 ---
-
-## 📚 References
-
-- [Victor Zhou: Machine Learning for Beginners: An Introduction to Neural Networks](https://victorzhou.com/blog/intro-to-neural-networks/)
-- Course: Deep Learning (7980)
-
----
-
-## ✍️ Author
-
-Deep Learning Assignment 3 — Term 9
-
----
-
-<p align="center">
-  <i>Built from scratch with ❤️ and NumPy</i>
-</p>
